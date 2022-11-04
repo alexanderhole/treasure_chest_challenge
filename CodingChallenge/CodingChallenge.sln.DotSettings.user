@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/alexhole/Library/Caches/JetBrains/Rider2022.2/resharper-host/temp/Rider/vAny/CoverageData/_CodingChallenge.-521290311/Snapshot/snapshot.utdcvr</s:String>
 	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10ed9f76_002Dee36_002D4a8f_002D91f1_002D8a8b8cbf04d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindUrlsInChildObject_NotAtStart #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Solution /&gt;
@@ -9,9 +10,5 @@
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2313b4bb_002D319b_002D4d94_002D9488_002Dffc81f42343f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindUrlsInSimpleObject" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::BDCFA669-9C83-4A4A-848B-79E3C6633902::net6.0::CodingChallenge.Tests.ClueFinderTests.FindUrlsInSimpleObject&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::BDCFA669-9C83-4A4A-848B-79E3C6633902::net6.0::CodingChallenge.Tests.ClueFinderTests.FindUrlsInChildObject&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::BDCFA669-9C83-4A4A-848B-79E3C6633902::net6.0::CodingChallenge.Tests.ClueFinderTests.FindUrlsInChildObject_NotAtStart&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Solution /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

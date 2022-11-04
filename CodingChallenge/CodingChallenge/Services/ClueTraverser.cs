@@ -17,7 +17,6 @@ public class ClueTraverser : IClueTraverser
     public async Task TraverseUrl(string startUrl)
     {
         var response = await _clueDownloader.Download(startUrl);
-
         if (response != null)
             foreach (var clue in response)
             {

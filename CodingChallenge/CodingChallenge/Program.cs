@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 ServiceCollection sc = new();
 sc.AddSingleton<IClueFinder, ClueFinder>();
 sc.AddSingleton<IClueDownloader, ClueDownloader>();
+sc.AddSingleton<IValueFinder, ValueFinder>();
 sc.AddSingleton<IClueTraverser, ClueTraverser>();
 sc.AddSingleton<IContentInspectorService, DoubloonInspectorService>();
 sc.AddSingleton<IContentInspectorService, HolyGrailInspectorService>();
